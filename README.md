@@ -6,7 +6,7 @@ Reference:
 
 [The Ultimate Guide to Artificial Neural Networks (ANN) - Blogs - SuperDataScience | Machine Learning | AI | Data Science Career | Analytics | Success](https://www.superdatascience.com/blogs/the-ultimate-guide-to-artificial-neural-networks-ann)
 
-**What is an ANN? —** Artificial Neural Network: An artificial neuron network (**ANN**) is a computational model based on the structure and functions of biological neural networks.
+**What is an ANN? —** Artificial Neural Network: An artificial neuron network (**ANN**) is a computational model based on the structure and functions of biological neural networks/brain.
 
 **What is a Neuron? —** The ****neuron that forms the basis of all Neural Networks is an imitation of what has been observed in the human brain.
 
