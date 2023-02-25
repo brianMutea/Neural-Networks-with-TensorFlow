@@ -2,9 +2,13 @@
 
 Date: 23/02/2023
 
-Reference:
+Just some random helpful points taken during this learning...
+
+**Reference:**
 
 [The Ultimate Guide to Artificial Neural Networks (ANN) - Blogs - SuperDataScience | Machine Learning | AI | Data Science Career | Analytics | Success](https://www.superdatascience.com/blogs/the-ultimate-guide-to-artificial-neural-networks-ann)
+
+<p id='center'> . . .</p>
 
 **What is an ANN? —** Artificial Neural Network: An artificial neuron network (**ANN**) is a computational model based on the structure and functions of biological neural networks/brain.
 
